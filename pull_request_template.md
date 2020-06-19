@@ -12,5 +12,6 @@
 - [ ] code could do with a restructuring
 - [ ] code could use some more type hints
 - [ ] PR modifies the build/deployment/configuration process, and this has yet to be documented and communicated.
+- [ ] This PR is super on all above items, and I dare the reviewer to find anything contradicting that!
 
 **Solution notes:**
