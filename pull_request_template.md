@@ -20,4 +20,4 @@
 
 **Checklist of the month:**
 
-- [ ] This PR is super on all above items, and I dare the reviewer to find anything contradicting that!
+- [ ] commons: the OpenAPI documentation for any endpoints touched in this PR has been created or updated.
