@@ -20,3 +20,6 @@
 
 **How this PR was tested:**
 <!-- Manual or automatic? Local or staging? What steps were performed? -->
+
+**Required updates to the release test:**
+<!-- When we merge this PR, will we have to update the release test? -->
