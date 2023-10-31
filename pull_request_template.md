@@ -23,7 +23,3 @@
 
 **Required updates to the release test:**
 <!-- When we merge this PR, will we have to update the release test? -->
-
-**Backwards compatibility:**
-
-- [ ] These changes are [backwards-compatible](https://motosumo.slack.com/archives/C2AKTNGSD/p1696944730187129?thread_ts=1696942867.060769&cid=C2AKTNGSD) with the current production release of `commons`.
