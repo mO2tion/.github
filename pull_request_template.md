@@ -4,6 +4,8 @@
 **Solution notes:**
 <!-- How do we solve it? Any caveats? -->
 
+[ ] I have linked all relevant PRs and bug reports
+
 **Suggested reading order:**
 
 - [ ] Per commit
